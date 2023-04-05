@@ -1,1 +1,1 @@
-java ScriptProcessorNode
+console.log("Script 01.")
