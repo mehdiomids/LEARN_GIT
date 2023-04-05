@@ -1,1 +1,1 @@
-console.log("Script 01.")
+console.log("Script 01")
